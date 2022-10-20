@@ -197,3 +197,10 @@
     
     
 }
+
+
+@media screen and  (min-width:800px) and (max-width:910px){
+    .message{
+        width: 50%;
+    }
+}
